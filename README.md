@@ -1,3 +1,3 @@
 # dragonfortuneai-tradingdash
 
-<img width="2977" height="1748" alt="image" src="https://github.com/user-attachments/assets/df014705-3514-446c-b4f7-0353066ede8d" />
+<img width="2976" height="1752" alt="image" src="https://github.com/user-attachments/assets/1aa79ad8-6d87-472d-91dc-5c394250a6dd" />
