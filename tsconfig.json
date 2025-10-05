@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["./src/*"],
+      "react-lightweight-charts": ["./src/lib/react-lightweight-charts"],
+      "react-lightweight-charts/*": ["./src/lib/react-lightweight-charts"],
+      "lightweight-charts": ["./node_modules/lightweight-charts"],
+      "lightweight-charts/*": ["./node_modules/lightweight-charts/*"]
+    }
+  },
+  "files": [],
+  "references": [
+    { "path": "./tsconfig.app.json" },
+    { "path": "./tsconfig.node.json" }
+  ]
+}
